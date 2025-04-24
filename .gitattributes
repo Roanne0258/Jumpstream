@@ -1,0 +1,2 @@
+*.cpp text eol=lf encoding=UTF-8
+*.h   text eol=lf encoding=UTF-8
