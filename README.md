@@ -22,8 +22,8 @@
 두 개의 입구 중 해골 마크가 있는 입구는 더 큰 속도 증가폭을 제공하며, **고난이도 경고 요소**로 작용합니다.
 
 📷 **예시 이미지**  
-*![image](https://github.com/user-attachments/assets/e33f537c-ae4b-480d-bded-ef9e7007a57a)*
-![2025-04-23 18-15-10 (1)](https://github.com/user-attachments/assets/b4182d2e-d28e-4920-a14a-5d6cac2219d0)
+*![2025-04-23 18-15-10 (1)](https://github.com/user-attachments/assets/7f1007a6-826a-4738-b5f7-3eedf61dc2b6)
+*
 
 ---
 
@@ -34,8 +34,9 @@
 회피 능력과 반응 속도를 테스트하는 핵심 구간입니다.
 
 📷 **예시 이미지**  
-*![image](https://github.com/user-attachments/assets/12435606-a667-4907-9309-c88fecd69718)*
-*![image](https://github.com/user-attachments/assets/e878b356-93a3-43b8-9bc4-4668bc9412de)*
+![2025-04-24 16-13-26](https://github.com/user-attachments/assets/eaf7eec1-4cbe-4aa6-9919-e6f3930b2aeb)
+![2025-04-24 16-13-26 (2)](https://github.com/user-attachments/assets/b3d3a86a-eb76-405e-931c-8948799cac2a)
+
 
 ---
 
@@ -45,7 +46,8 @@
 회전 방향이 예측 불가능하게 바뀌는 점은 플레이어에게 반응 타이밍과 위치 선정을 더욱 까다롭게 만듭니다.
 
 📷 **예시 이미지**  
-*![2025-04-23 18-24-18](https://github.com/user-attachments/assets/d259b946-3076-4054-b471-974a9f98f836)*
+![회전](https://github.com/user-attachments/assets/193212e2-787f-42bd-b866-33c55d88d0cd)
+
 
 ---
 
@@ -56,7 +58,10 @@
 **해당 공격이 예정된 발판은 빨간색으로 깜빡이며 위험을 사전 경고**합니다.
 
 📷 **예시 이미지**  
-*![2025-04-23 23-25-47](https://github.com/user-attachments/assets/0db9253f-fed2-431e-9835-4ec178730da8)*
+![레이저1](https://github.com/user-attachments/assets/420c86e8-f258-42e7-b7e3-5583e2c27a89)
+
+![레이저2](https://github.com/user-attachments/assets/5a3e12fb-2269-4d67-b7ee-3c065f5ffc08)
+
 
 
 ---
